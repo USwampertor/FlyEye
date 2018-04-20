@@ -1,0 +1,9 @@
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces Actividades\FlyEye\FlyEye\bin\Debug\FlyEye.exe.config
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces Actividades\FlyEye\FlyEye\bin\Debug\FlyEye.exe
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces Actividades\FlyEye\FlyEye\bin\Debug\FlyEye.pdb
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces Actividades\FlyEye\FlyEye\obj\Debug\FlyEye.csprojResolveAssemblyReference.cache
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces Actividades\FlyEye\FlyEye\obj\Debug\FlyEye.Form1.resources
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces Actividades\FlyEye\FlyEye\obj\Debug\FlyEye.Properties.Resources.resources
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces Actividades\FlyEye\FlyEye\obj\Debug\FlyEye.csproj.GenerateResource.Cache
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces Actividades\FlyEye\FlyEye\obj\Debug\FlyEye.exe
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces Actividades\FlyEye\FlyEye\obj\Debug\FlyEye.pdb
